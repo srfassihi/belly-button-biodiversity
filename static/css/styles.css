@@ -1,0 +1,30 @@
+@-ms-viewport{
+    width: device-width;
+  }
+
+.jumbotron {
+    background-image: url('https://media.wired.co.uk/photos/606da8809a15f73a597a1f76/master/w_1600,c_limit/Navelgazing.jpg');
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+p {
+    background-color: black;
+    color: rgb(247, 200, 11);
+}
+.container {
+    background-color: paleturquoise;
+}
+
+.panel-body {
+    border-radius: 2px;
+    display: inline-block;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+body {
+    background-color: teal;
+    color: darkslategrey;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
